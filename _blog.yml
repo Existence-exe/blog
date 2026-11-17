@@ -99,8 +99,8 @@
 
 - slug: nobel-prize-in-physics
   title: "Nobel Prize in Physics ?"
-  thumbnail: /blogs/screen-time-vs-smart-learning/assets/img2.jpeg
-  description: "Francis Halzen's recent nobel prize win and his contributions over the years."
+  thumbnail: /blogs/nobel-prize-in-physics/assets/img2.jpeg
+  description: "Francis Halzen's recent Nobel Prize win and his contributions over the years."
   authors:
     - name: Pritish Dutta
       profile: https://www.linkedin.com/in/pritish-dutta/
@@ -108,6 +108,7 @@
   created: November 4, 2026
   updated: November 4, 2026
   tags:
+    - blog
     - Nobel Prize
     - Physics
     - Francis Halzen
