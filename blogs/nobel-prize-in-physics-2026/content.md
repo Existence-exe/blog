@@ -4,7 +4,7 @@
 
 <p align="center">
     <img
-        src="/blogs/nobel-prize-in-physics/assests/img2.jpeg"
+        src="/blogs/nobel-prize-in-physics-2026/assests/img2.jpeg"
         alt="Polar Base."
         height="400"
     >
@@ -25,7 +25,7 @@ In October 2026, Halzen was awarded the Nobel Prize in Physics for his work and 
 
 <p align="center">
     <img
-        src="/blogs/nobel-prize-in-physics/assests/img3.jpeg"
+        src="/blogs/nobel-prize-in-physics-2026/assests/img3.jpeg"
         alt="Polar Base."
         height="400"
     >
@@ -46,7 +46,7 @@ Traditional telescopes observe electromagnetic radiation, from visible light to 
 
 <p align="center">
     <img
-        src="/blogs/nobel-prize-in-physics/assests/img1.jpeg"
+        src="/blogs/nobel-prize-in-physics-2026/assests/img1.jpeg"
         alt="Polar Base."
         height="400"
     >
@@ -73,7 +73,7 @@ In this way, the ice becomes a gigantic particle detector, transforming tiny fla
 
 <p align="center">
     <img
-        src="/blogs/nobel-prize-in-physics/assests/img4.jpeg"
+        src="/blogs/nobel-prize-in-physics-2026/assests/img4.jpeg"
         alt="Polar Base."
         height="400"
     >
